@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Sonic: Doomsday</name>
+    <name>Sonic Doomsday</name>
 
     <description>
-        Ann app made using Scratch, Phonegap, github, and PhoneGap
+        An app made using Scratch, Phonegap, github, and PhoneGap
     </description>
 
     <author href="http://scratch.mit.edu/users/apgonscratch" email="thenotch2112@gmail.com">
-        apgonscratch
+        Team Doomsday
     </author>
 
 </widget>
