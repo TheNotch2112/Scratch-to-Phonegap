@@ -17,6 +17,6 @@
         Team Doomsday
     </author>
 
-        <splash src="" width="360" height="480" />
+        <splash src="Scratch-to-Phonegap/splash.png" width="360" height="480" />
         
 </widget>
